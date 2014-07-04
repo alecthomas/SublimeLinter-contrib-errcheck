@@ -1,0 +1,10 @@
+SublimeLinter-contrib-errcheck
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to errcheck.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/alecthomas/SublimeLinter-contrib-errcheck
